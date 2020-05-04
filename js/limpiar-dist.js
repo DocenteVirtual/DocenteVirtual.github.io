@@ -1,1 +1,0 @@
-function limpiar(){"use strict";user.addEventListener("click",function(){document.getElementById("user").value=""}),password.addEventListener("click",function(){document.getElementById("password").value=""})}window.onload=limpiar();
